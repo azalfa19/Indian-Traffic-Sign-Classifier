@@ -33,12 +33,9 @@ AI&Ml/
 │
 ├── train_model.py     # Model training script
 ├── gui_app.py         # GUI application
-├── model.pkl          # Trained model
-├── labels.pkl         # Label mapping
-├── README.md          # Project documentation
-├── statement.md       # Problem statement
-```
 
+```
+⚠️ Note: The trained model files (model.pkl, labels.pkl) are not included due to size limits. Please run `train_model.py` to generate them.
 ---
 
 ## 📊 Dataset
