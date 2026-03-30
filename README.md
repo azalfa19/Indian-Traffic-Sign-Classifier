@@ -51,7 +51,7 @@ AI&Ml/
 ### 1. Clone Repository (or download manually)
 
 ```
-git clone https://github.com/azalfa19/Indian-Traffic-Sign-Classifier/new/main
+git clone https://github.com/azalfa19/Indian-Traffic-Sign-Classifier
 ```
 
 ### 2. Install Required Libraries
